@@ -1,2 +1,5 @@
 	git config --global user.name "Eugene Orekhovsky"
 	git config --global user.mail "4tografy@gmail.com"
+
+http://localhost:8080/
+Изменить порт 8080 на другой – в файле C:\Programs\Jenkins\jenkins.xml в ключе --httpPort=8080 и перезапустить службу Jenkins
