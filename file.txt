@@ -3,3 +3,4 @@
 
 http://localhost:8080/
 Изменить порт 8080 на другой – в файле C:\Programs\Jenkins\jenkins.xml в ключе --httpPort=8080 и перезапустить службу Jenkins
+vb
